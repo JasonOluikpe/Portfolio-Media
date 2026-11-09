@@ -1,6 +1,6 @@
 # Portfolio-Media
 
-The videos on my website.
+The medias on my website.
 
 
 https://jasonoluikpe.de.deplexo.com
